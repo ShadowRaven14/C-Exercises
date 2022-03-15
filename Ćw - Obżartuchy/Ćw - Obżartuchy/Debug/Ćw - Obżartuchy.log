@@ -1,0 +1,5 @@
+﻿  Ćw - Obżartuchy.cpp
+C:\Users\Admin\source\repos\Ćw - Obżartuchy\Ćw - Obżartuchy\Ćw - Obżartuchy.cpp(8,11): error C2131: wyrażenie nie zostało obliczone do stałej
+C:\Users\Admin\source\repos\Ćw - Obżartuchy\Ćw - Obżartuchy\Ćw - Obżartuchy.cpp(8,11): message : przyczyną niepowodzenia był odczyt zmiennej poza jej okresem istnienia
+C:\Users\Admin\source\repos\Ćw - Obżartuchy\Ćw - Obżartuchy\Ćw - Obżartuchy.cpp(8,11): message : zobacz użycie elementu „ile”
+C:\Users\Admin\source\repos\Ćw - Obżartuchy\Ćw - Obżartuchy\Ćw - Obżartuchy.cpp(9,6): warning C4552: „>>”: Wynik wyrażenia nie jest używany
