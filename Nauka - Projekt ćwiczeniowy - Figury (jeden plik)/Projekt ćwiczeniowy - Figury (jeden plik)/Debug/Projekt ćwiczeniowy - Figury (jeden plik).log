@@ -1,0 +1,12 @@
+﻿  Koło.cpp
+C:\Users\Admin\source\repos\Nauka - Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik)\Koło.h(6,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Admin\source\repos\Nauka - Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik)\Koło.cpp(5,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Kształt.cpp
+  Kwadrat.cpp
+  Projekt ćwiczeniowy - Figury (jeden plik).cpp
+C:\Users\Admin\source\repos\Nauka - Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik).cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Nauka - Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik).cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\source\repos\Nauka - Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik)\Koło.h(6,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Admin\source\repos\Nauka - Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik)\Projekt ćwiczeniowy - Figury (jeden plik).cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Projekt ćwiczeniowy - Figury (jeden plik).vcxproj -> C:\Users\Admin\source\repos\Nauka - Projekt ćwiczeniowy - Figury (jeden plik)\Debug\Projekt ćwiczeniowy - Figury (jeden plik).exe
