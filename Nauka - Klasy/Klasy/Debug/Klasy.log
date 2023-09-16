@@ -1,0 +1,3 @@
+﻿  Klasy.cpp
+C:\Users\Admin\source\repos\Klasy\Klasy\Klasy.cpp(29,15): warning C4834: odrzucanie zwracanej wartości funkcji z atrybutem „nodiscard”
+  Klasy.vcxproj -> C:\Users\Admin\source\repos\Klasy\Debug\Klasy.exe

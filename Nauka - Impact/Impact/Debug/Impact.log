@@ -1,0 +1,3 @@
+﻿  Impact.cpp
+C:\Users\Admin\source\repos\Impact\Impact\Impact.cpp(9,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Impact.vcxproj -> C:\Users\Admin\source\repos\Impact\Debug\Impact.exe
