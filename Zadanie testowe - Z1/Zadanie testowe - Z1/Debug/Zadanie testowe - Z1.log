@@ -1,0 +1,5 @@
+﻿  Zadanie testowe - Z1.cpp
+C:\Users\Admin\source\repos\Zadanie testowe - Z1\Zadanie testowe - Z1\Zadanie testowe - Z1.cpp(27,19): warning C4018: ">=": niezgodność typu ze znakiem/bez znaku
+C:\Users\Admin\source\repos\Zadanie testowe - Z1\Zadanie testowe - Z1\Zadanie testowe - Z1.cpp(33,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Admin\source\repos\Zadanie testowe - Z1\Zadanie testowe - Z1\Zadanie testowe - Z1.cpp(40,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Zadanie testowe - Z1.vcxproj -> C:\Users\Admin\source\repos\Zadanie testowe - Z1\Debug\Zadanie testowe - Z1.exe

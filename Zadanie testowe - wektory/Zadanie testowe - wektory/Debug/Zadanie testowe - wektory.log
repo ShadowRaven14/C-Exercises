@@ -1,0 +1,8 @@
+﻿  Zadanie testowe - wektory.cpp
+C:\Users\Admin\source\repos\Zadanie testowe - wektory\Zadanie testowe - wektory\Zadanie testowe - wektory.cpp(14,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Admin\source\repos\Zadanie testowe - wektory\Zadanie testowe - wektory\Zadanie testowe - wektory.cpp(21,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Admin\source\repos\Zadanie testowe - wektory\Zadanie testowe - wektory\Zadanie testowe - wektory.cpp(23,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Admin\source\repos\Zadanie testowe - wektory\Zadanie testowe - wektory\Zadanie testowe - wektory.cpp(36,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Admin\source\repos\Zadanie testowe - wektory\Zadanie testowe - wektory\Zadanie testowe - wektory.cpp(42,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Admin\source\repos\Zadanie testowe - wektory\Zadanie testowe - wektory\Zadanie testowe - wektory.cpp(46): warning C4715: "solution”: niewszystkie ścieżki kodu zwracają wartość
+  Zadanie testowe - wektory.vcxproj -> C:\Users\Admin\source\repos\Zadanie testowe - wektory\Debug\Zadanie testowe - wektory.exe
