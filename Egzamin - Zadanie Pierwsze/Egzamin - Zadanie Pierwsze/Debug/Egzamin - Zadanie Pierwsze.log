@@ -1,0 +1,4 @@
+﻿  Egzamin - Zadanie Pierwsze.cpp
+C:\Users\Admin\source\repos\Egzamin - Zadanie Pierwsze\Egzamin - Zadanie Pierwsze\Egzamin - Zadanie Pierwsze.cpp(42,12): warning C4101: "a": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Admin\source\repos\Egzamin - Zadanie Pierwsze\Egzamin - Zadanie Pierwsze\Egzamin - Zadanie Pierwsze.cpp(42,9): warning C4101: "n": lokalna zmienna, do której nie istnieje odwołanie
+  Egzamin - Zadanie Pierwsze.vcxproj -> C:\Users\Admin\source\repos\Egzamin - Zadanie Pierwsze\Debug\Egzamin - Zadanie Pierwsze.exe
